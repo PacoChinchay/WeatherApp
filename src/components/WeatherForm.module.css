@@ -1,0 +1,20 @@
+.container {
+    margin: 10px 0;
+}
+
+.input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 0;
+    border-radius: 10px;
+    text-align: center;
+    outline: none;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.input:hover {
+    margin-top: 2px;
+    background-color: #fefefedd;
+}
